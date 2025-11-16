@@ -9,11 +9,13 @@
     <hr>
 </div>    
 
-
-## 📘 Introdução
-
-Este Projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa" ministrato pela DIO em parceria com a Iniversia, tendo como finalidade a criação de um E-book utilizando o ChatGPT e Midjourney. Com o intuito de criar um conteudo mais refiando este E-book foi eleborado com o auxilio as IA's Generativas de texto (ChatGPT, Gemini, Copilot, ...) e de iamgens (Midjourney, Nano banana, copilot, ...).
-
+<div>
+    <h2>📘 Introdução</h2>
+    <p align="justify">
+        Este Projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa" ministrato pela DIO em parceria com a Iniversia, tendo como finalidade a criação de um E-book utilizando o ChatGPT e Midjourney. Com o intuito de criar um conteudo mais refiando este E-book foi eleborado com o auxilio as IA's Generativas de texto (ChatGPT, Gemini, Copilot, ...) e de iamgens (Midjourney, Nano banana, copilot, ...).
+    </p>
+    <hr>
+</div>
 
 ## 🛠 Ferramentas Utilizadas
 
@@ -47,21 +49,21 @@ Use prompts no ChatGPT, Microsoft Copilot ou Gemini para criar:
 ### **2. Criação de imagens**
 Ferramentas recomendadas:
 - MidJourney  
-- Microsoft Copilot  
+- Copilot  
 - Gemini (Nano Banana)  
 
 ### **3. Elaboração, revisão e diagramação**
 - PowerPoint  
 - Word  
-- Microsoft Copilot  
+- Copilot  
 
 ---
 
 ## 🧠 Prompts Utilizados
 
-| Ação | Prompt |
-|------|--------|
-| **Título** | Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt. |
+| Ação | Prompt                                                                                                                                                                                                                                                                             |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título** | Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt, use um tom simples e cativante que crie impacto. |
 | **Conteúdo** | "Estou criando um e-book sobre Engenharia de Prompt, voltado para pessoas leigas, iniciantes e sem conhecimento técnico em Inteligência Artificial. Preciso de ajuda para montar um esboço estruturado em tópicos, com uma linguagem simples, clara e fácil de entender. O conteúdo deve ser didático, leve e com muitos exemplos práticos." |
 | **Conteúdo Refinado** | "Você é um 'Especialista em Engenharia de Prompt' e 'Escritor Didático de E-books', responsável por criar um e-book introdutório e acessível com o título “Engenharia de Prompts” e subtítulo “IA para todos: Domine a Arte e a Ciência de se comunicar com Inteligência”. O objetivo é entregar um guia de iniciação simples, prático e útil, com exemplos comparativos e linguagem clara, destinado a iniciantes e pessoas leigas." |
 | **Imagem de Capa** | "An illustrated scene depicting the intersection of artificial intelligence, technology, and algorithms. The image should feature a brain-like neural network, a robot interacting with a touch screen, and vertical lines of code reminiscent of the Matrix film." |
@@ -71,8 +73,8 @@ Ferramentas recomendadas:
 ## ⭐ Features
 
 - Conteúdo gerado com apoio de IAs generativas  
-- Título, subtítulo e tópicos criados com ChatGPT, Gemini e Microsoft Copilot  
-- Imagens desenvolvidas com MidJourney, Nano Banana e Microsoft Copilot  
+- Título, subtítulo e tópicos criados com ChatGPT, Gemini e Copilot  
+- Imagens desenvolvidas com MidJourney, Nano Banana e Copilot  
 - Conteúdo textual desenvolvido e refinado com ChatGPT e revisado no Word  
 - Ebook criado como parte do Bootcamp **“Universia - Fundamentos de IA Generativa”**  
 
