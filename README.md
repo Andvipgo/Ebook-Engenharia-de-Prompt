@@ -1,32 +1,28 @@
-</p>
 
-<p align="center">
-   <img src="assets/capa%20podcast.jpg" alt="Cover - Capa Podcast" width="400"/>
-</p>
-<p align="center">
-   <a href="https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F539CD00AE7238F6D%21s4bf6327c2c9b4a7fbdee6976c81fc440%3Fithint%3Dvideo%26migratedtospo%3Dtrue&sw=bypassConfig&cid=539CD00AE7238F6D&id=539CD00AE7238F6D%21s4bf6327c2c9b4a7fbdee6976c81fc440&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy81MzljZDAwYWU3MjM4ZjZkL0VYd3k5a3ViTEg5S3ZlNXBkc2dmeEVBQnd0bUg0dFlaaXJBQWFpeGxkVVlIZWc&v=photos" target="_blank">
+<div align="center">
+    <p>
+        <img src="https://raw.githubusercontent.com/Andvipgo/Ebook-Engenharia-de-Prompt/main/Prompt%20Engnner.png" 
+             alt="Capa do Ebook" style="width:50%; max-width:1900px; display: block; margin: 0 auto;">
+    </p>
+<h1>ENGENHARIA DE PROMPT</h1>
+<h4>Dominando a Arte e a Ciência de se comunicar com Inteligência — por Anderson Roberto</h4>
+    <hr>
+</div>    
 
-E-book introdutório sobre engenharia de prompt para iniciantes — por Anderson Roberto
-
-# ENGENHARIA DE PROMPT
-### Dominando a Arte e a Ciência de se comunicar com Inteligência
-
----
 
 ## 📘 Introdução
 
 Este Projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa" ministrato pela DIO em parceria com a Iniversia, tendo como finalidade a criação de um E-book utilizando o ChatGPT e Midjourney. Com o intuito de criar um conteudo mais refiando este E-book foi eleborado com o auxilio as IA's Generativas de texto (ChatGPT, Gemini, Copilot, ...) e de iamgens (Midjourney, Nano banana, copilot, ...).
 
----
 
 ## 🛠 Ferramentas Utilizadas
 
-- ChatGPT  
-- Microsoft Copilot  
-- Gemini  
-- MidJourney  
-- PowerPoint  
-- Word  
+- [ChatGPT](https://chat.openai.com/)   
+- [Copilot](https://copilot.microsoft.com/)  
+- [Gemini](https://gemini.google.com/app)  
+- [MidJourney](https://www.midjourney.com/app/)  
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)  
+- [Word](https://www.microsoft.com/en/microsoft-365/word)  
 
 ---
 
