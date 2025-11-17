@@ -63,10 +63,10 @@ Ferramentas recomendadas:
 
 | Ação | Prompt                                                                                                                                                                                                                                                                             |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Título** | Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt, use um tom simples e cativante que crie impacto. |
-| **Conteúdo** | "Estou criando um e-book sobre Engenharia de Prompt, voltado para pessoas leigas, iniciantes e sem conhecimento técnico em Inteligência Artificial. Preciso de ajuda para montar um esboço estruturado em tópicos, com uma linguagem simples, clara e fácil de entender. O conteúdo deve ser didático, leve e com muitos exemplos práticos." |
-| **Conteúdo Refinado** | "Você é um 'Especialista em Engenharia de Prompt' e 'Escritor Didático de E-books', responsável por criar um e-book introdutório e acessível com o título “Engenharia de Prompts” e subtítulo “IA para todos: Domine a Arte e a Ciência de se comunicar com Inteligência”. O objetivo é entregar um guia de iniciação simples, prático e útil, com exemplos comparativos e linguagem clara, destinado a iniciantes e pessoas leigas." |
-| **Imagem de Capa** | "An illustrated scene depicting the intersection of artificial intelligence, technology, and algorithms. The image should feature a brain-like neural network, a robot interacting with a touch screen, and vertical lines of code reminiscent of the Matrix film." |
+| **Título** | <p align="justify">Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt, use um tom simples e cativante que crie impacto. </p>|
+| **Conteúdo** |  <p align="justify">"Estou criando um e-book sobre Engenharia de Prompt, voltado para pessoas leigas, iniciantes e sem conhecimento técnico em Inteligência Artificial. Preciso de ajuda para montar um esboço estruturado em tópicos, com uma linguagem simples, clara e fácil de entender. O conteúdo deve ser didático, leve e com muitos exemplos práticos." </p> |
+| **Conteúdo Refinado** | <p align="justify">"Você é um 'Especialista em Engenharia de Prompt' e 'Escritor Didático de E-books', responsável por criar um e-book introdutório e acessível com o título “Engenharia de Prompts” e subtítulo “IA para todos: Domine a Arte e a Ciência de se comunicar com Inteligência”. O objetivo é entregar um guia de iniciação simples, prático e útil, com exemplos comparativos e linguagem clara, destinado a iniciantes e pessoas leigas." </p> |
+| **Imagem de Capa** | <p align="justify"> "An illustrated scene depicting the intersection of artificial intelligence, technology, and algorithms. The image should feature a brain-like neural network, a robot interacting with a touch screen, and vertical lines of code reminiscent of the Matrix film." </p> |
 
 ---
 
@@ -82,7 +82,21 @@ Ferramentas recomendadas:
 
 ## 🎯 Conclusão
 
-Este projeto demonstra como as ferramentas de Inteligência Artificial podem ampliar a criatividade, facilitar o aprendizado e tornar a produção de conteúdo acessível para todos.  
-O e-book está disponível para consulta, estudo e inspiração, incentivando novos aprendizes a explorarem o universo da IA e da Engenharia de Prompt de maneira prática, simples e intuitiva.
+<p align="justify">
+    Este e-book foi desenvolvido como parte do Bootcamp Fundamentos da IA Genererativa (DIO + Universia) e aplica, na prática, o uso de IAs generativas na criação de conteúdo didático. O projeto demonstra minha capacidade de estruturar ideias, produzir textos, gerar imagens e organizar informações utilizando ferramentas como ChatGPT, Gemini, Microsoft Copilot, MidJourney, PowerPoint e Word.
+</p>
+
+<p align="justify">
+O objetivo deste material é tornar a Engenharia de Prompt acessível para iniciantes, com linguagem simples e exemplos claros. Ao disponibilizar o e-book neste repositório, registro não apenas o resultado final, mas também minha evolução profissional e o domínio crescente no uso de IA para criação, documentação e aprendizagem contínua.
+</p> 
+
+<p align="justify">
+Este material está disponível para consulta e para inspirar quem deseja ir além: explorar novas ferramentas, experimentar diferentes estilos de prompts e aprofundar sua jornada no universo da Inteligência Artificial.
+Se este e-book deu o seu primeiro passo, que ele seja também o impulso para os próximos. A aprendizagem sobre IA é contínua — e cada pergunta bem feita abre um novo caminho de possibilidades.
+</p>    
+
+<p align="justify">
+O futuro já está ao alcance das suas mãos. Agora, cabe a você continuar explorando, criando e se surpreendendo com tudo o que a IA pode fazer ao seu lado.
+</p>    
 
 
