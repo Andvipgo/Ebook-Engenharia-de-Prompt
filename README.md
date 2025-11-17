@@ -2,7 +2,7 @@
 <div align="center">
     <p>
         <img src="https://raw.githubusercontent.com/Andvipgo/Ebook-Engenharia-de-Prompt/main/Prompt%20Engnner.png" 
-             alt="Capa do Ebook" style="width:50%; max-width:1900px; display: block; margin: 0 auto;">
+             alt="Capa do Ebook" style="width:65%; max-width:1900px; display: block; margin: 0 auto;">
     </p>
 <h1>ENGENHARIA DE PROMPT</h1>
 <h4>Dominando a Arte e a Ciência de se comunicar com Inteligência — por Anderson Roberto</h4>
@@ -12,7 +12,7 @@
 <div>
     <h2>📘 Introdução</h2>
     <p align="justify">
-        Este Projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa" ministrato pela DIO em parceria com a Iniversia, tendo como finalidade a criação de um E-book utilizando o ChatGPT e Midjourney. Com o intuito de criar um conteudo mais refiando este E-book foi eleborado com o auxilio as IA's Generativas de texto (ChatGPT, Gemini, Copilot, ...) e de iamgens (Midjourney, Nano banana, copilot, ...).
+        Este projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa", ministrado pela DIO em parceria com a Universia. A sua finalidade é a elaboração de um E-book utilizando ChatGPT e Midjourney. Para garantir um conteúdo mais refinado, o E-book foi elaborado com o auxílio de outras IAs Generativas, tanto de texto (como ChatGPT, Gemini e Copilot) quanto de imagens (como Midjourney, Nano banana e Copilot).
     </p>
     <hr>
 </div>
@@ -64,9 +64,10 @@ Ferramentas recomendadas:
 
 ## 🧠 Prompts Utilizados
 
-| Ação | Prompt                                                                                                                                                                                                                                                                             |
+| Ação | Prompts                                                                                                                                                                                                                                                                             |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Título** | <p align="justify">Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt, use um tom simples e cativante que crie impacto. </p>|
+| **Título** | <p align="justify">"Crie um exemplo de prompt utilizado para gerar 5 possíveis títulos para um ebook sobre Engenharia de Prompt, use um tom simples e cativante que crie impacto." </p>|
+| **Título Refinado** | <p align="justify">"Aja como um especialista em copywriting e marketing digital. Gere 5 opções de títulos altamente cativantes e simples, com no máximo 8 palavras, para um Ebook focado em 'Engenharia de Prompt'. Os títulos devem ser impactantes, despertar a curiosidade do leitor e prometer uma transformação, ensinando-o a dominar as IAs e gerar resultados incríveis." </p>|
 | **Conteúdo** |  <p align="justify">"Estou criando um e-book sobre Engenharia de Prompt, voltado para pessoas leigas, iniciantes e sem conhecimento técnico em Inteligência Artificial. Preciso de ajuda para montar um esboço estruturado em tópicos, com uma linguagem simples, clara e fácil de entender. O conteúdo deve ser didático, leve e com muitos exemplos práticos." </p> |
 | **Conteúdo Refinado** | <p align="justify">"Você é um 'Especialista em Engenharia de Prompt' e 'Escritor Didático de E-books', responsável por criar um e-book introdutório e acessível com o título “Engenharia de Prompts” e subtítulo “IA para todos: Domine a Arte e a Ciência de se comunicar com Inteligência”. O objetivo é entregar um guia de iniciação simples, prático e útil, com exemplos comparativos e linguagem clara, destinado a iniciantes e pessoas leigas." </p> |
 | **Imagem de Capa** | <p align="justify"> "An illustrated scene depicting the intersection of artificial intelligence, technology, and algorithms. The image should feature a brain-like neural network, a robot interacting with a touch screen, and vertical lines of code reminiscent of the Matrix film." </p> |
@@ -86,7 +87,7 @@ Ferramentas recomendadas:
 ## 🎯 Conclusão
 
 <p align="justify">
-    Este e-book foi desenvolvido como parte do Bootcamp Fundamentos da IA Genererativa (DIO + Universia) e aplica, na prática, o uso de IAs generativas na criação de conteúdo didático. O projeto demonstra minha capacidade de estruturar ideias, produzir textos, gerar imagens e organizar informações utilizando ferramentas como ChatGPT, Gemini, Microsoft Copilot, MidJourney, PowerPoint e Word.
+    Este e-book foi desenvolvido como parte do Bootcamp Fundamentos da IA Generativa (DIO + Universia) e aplica, na prática, o uso de IAs generativas na criação de conteúdo didático. O projeto demonstra minha capacidade de estruturar ideias, produzir textos, gerar imagens e organizar informações utilizando ferramentas como ChatGPT, Gemini, Microsoft Copilot, MidJourney, PowerPoint e Word.
 </p>
 
 <p align="justify">
